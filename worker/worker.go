@@ -1,7 +1,6 @@
 package worker
 
 import (
-	"cube/task"
 	"fmt"
 	"orchestrator/task"
 
